@@ -1,6 +1,6 @@
 # Sistema de Control de Asistencia
 
-Este documento integra y resume la información clave de los archivos proporcionados, presentando una visión clara del sistema de control de asistencia, sus requerimientos, pruebas y mantenimiento. Todo el contenido ha sido reformulado para evitar plagio.
+Este documento integra y resume la información clave de los archivos proporcionados, presentando una visión clara del sistema de control de asistencia, sus requerimientos, pruebas y mantenimiento.
 
 ---
 
